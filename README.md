@@ -1,4 +1,3 @@
-markdown
 # Super Mario Adventure Game Dev.
 
 Super Mario Adventure Game Dev. is a custom Mario game developed with HTML5, CSS, and JavaScript. Dive into a classic Mario platforming experience with modern enhancements and a built-in level editor.
@@ -112,9 +111,3 @@ For any inquiries or issues, please contact me.!
 
 Enjoy the game and unleash your creativity with the level editor!
 ```
-
-### Additional Notes
-- Replace `[Your Name]` with your actual name.
-- Include a `LICENSE` file if you choose to add licensing information.
-- The `index.html` file should be the main entry point for the game. If there are additional setup steps or dependencies, include them in the "Getting Started" or "Installation" sections.
-- Make sure to adjust any URLs or paths if they differ from your actual project structure.
